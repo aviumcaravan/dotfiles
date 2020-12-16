@@ -1,0 +1,34 @@
+xterm*faceName: DM Mono
+xterm*faceSize: 9
+xterm*vt100*geometry: 120x37
+xterm*saveLines: 16384
+xterm*loginShell: true
+xterm*termName: xterm-256colour
+
+xterm*foreground: #f0f0f0
+xterm*background: #212121
+xterm*cursorColor: #f0f0f0
+
+xterm*color0: #212121
+xterm*color8: #7f7f7f
+
+xterm*color1: #ff7f7f
+xterm*color9: #ffb2b2
+
+xterm*color2: #7fff7f
+xterm*color10: #b2ffb2
+
+xterm*color3: #ffff7f
+xterm*color11: #ffffb2
+
+xterm*color4: #7f7fff
+xterm*color12: #b2b2ff
+
+xterm*color5: #ff7fff
+xterm*color13: #ffb2ff
+
+xterm*color6: #7fffff
+xterm*color14: #b2ffff
+
+xterm*color7: #b2b2b2
+xterm*color15: #f0f0f0
