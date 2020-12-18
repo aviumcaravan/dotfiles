@@ -13,5 +13,5 @@ setopt prompt_subst
 alias ls='ls -laG'
 alias grep='grep --color=auto'
 
-PS1='%B%F{yellow}%w %D{%b %Y}%t%f %F{cyan}%n%f on %F{magenta}%m%f %F{blue}%~%f%F{green}${vcs_info_msg_0_}%f 
+PS1='%B%F{yellow}%w %D{%b %Y} %t%f %F{cyan}%n%f on %F{magenta}%m%f %F{blue}%~%f%F{green}${vcs_info_msg_0_}%f 
 %F{red}∑%f%b '
