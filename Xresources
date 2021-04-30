@@ -7,27 +7,27 @@ xterm*termName: xterm-256colour
 
 xterm*foreground: #f0f0f0
 xterm*background: #212121
-xterm*cursorColor: #f0f0f0
+xterm*cursorColor: #b2b2b2
 
 xterm*color0: #212121
 xterm*color8: #7f7f7f
 
-xterm*color1: #ff7f7f
+xterm*color1: #ff4545
 xterm*color9: #ffb2b2
 
-xterm*color2: #7fff7f
+xterm*color2: #45ff45
 xterm*color10: #b2ffb2
 
-xterm*color3: #ffff7f
+xterm*color3: #ffff45
 xterm*color11: #ffffb2
 
-xterm*color4: #7f7fff
+xterm*color4: #4545ff
 xterm*color12: #b2b2ff
 
-xterm*color5: #ff7fff
+xterm*color5: #ff45ff
 xterm*color13: #ffb2ff
 
-xterm*color6: #7fffff
+xterm*color6: #45ffff
 xterm*color14: #b2ffff
 
 xterm*color7: #b2b2b2
