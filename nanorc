@@ -39,7 +39,7 @@ set autoindent
 # set brackets ""')>]}"
 
 ## Automatically hard-wrap the current line when it becomes overlong.
-set breaklonglines
+# set breaklonglines
 
 ## Do case-sensitive searches by default.
 # set casesensitive
@@ -81,7 +81,7 @@ set linenumbers
 ## The opening and closing brackets that are found by a matching-bracket
 ## search.  This may not contain blank characters.  The opening brackets
 ## must come before the closing ones, and they must be in the same order.
-# set matchbrackets "(<[{)>]}"
+set matchbrackets "(<[{)>]}"
 
 ## Suppress the title bar and show the filename plus a cursor-position
 ## percentage in the space of the status bar.
@@ -157,7 +157,7 @@ set linenumbers
 # set smarthome
 
 ## Spread overlong lines over multiple screen lines.
-# set softwrap
+set softwrap
 
 ## Use this spelling checker instead of the internal one.  This option
 ## does not have a default value.
@@ -168,10 +168,10 @@ set linenumbers
 # set stateflags
 
 ## Use this tab size instead of the default; it must be greater than 0.
-# set tabsize 8
+set tabsize 4
 
 ## Convert each typed tab to the fitting number of spaces.
-# set tabstospaces
+set tabstospaces
 
 ## Snip whitespace at the end of lines when justifying or hard-wrapping.
 # set trimblanks
