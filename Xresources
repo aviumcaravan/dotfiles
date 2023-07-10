@@ -9,25 +9,25 @@ xterm*foreground: #f0f0f0
 xterm*background: #212121
 xterm*cursorColor: #b2b2b2
 
-xterm*color0: #212121
+xterm*color0: #171717
 xterm*color8: #7f7f7f
 
-xterm*color1: #ff4545
+xterm*color1: #a13636
 xterm*color9: #ffb2b2
 
-xterm*color2: #45ff45
+xterm*color2: #36a136
 xterm*color10: #b2ffb2
 
-xterm*color3: #ffff45
+xterm*color3: #a1a136
 xterm*color11: #ffffb2
 
-xterm*color4: #4545ff
+xterm*color4: #3636a1
 xterm*color12: #b2b2ff
 
-xterm*color5: #ff45ff
+xterm*color5: #a136a1
 xterm*color13: #ffb2ff
 
-xterm*color6: #45ffff
+xterm*color6: #36a1a1
 xterm*color14: #b2ffff
 
 xterm*color7: #b2b2b2
