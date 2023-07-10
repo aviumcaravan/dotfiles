@@ -1,5 +1,3 @@
-xterm*faceName: DM Mono
-xterm*faceSize: 9
 xterm*vt100*geometry: 120x37
 xterm*saveLines: 16384
 xterm*loginShell: true
