@@ -1,9 +1,5 @@
 #!/bin/zsh
 
-# hey, 4channers. how are you doing?
-# what is it like to highlight a teenager having fun in a thread of "autistic people"?
-# btw, i'm 16 and was diagnosed with autism at 3.
-
 HISTFILE=~/.zsh_history
 HISTSIZE=16384
 SAVEHIST=16384
